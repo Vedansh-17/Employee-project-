@@ -46,7 +46,7 @@ def employees_in_department(employee_data: list):
         print()  # Empty line for separation
 
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     EMPLOYEE_DATA = [
         {'ID': 1, 'first_name': 'John', 'last_name': 'Doe', 'date_of_birth': '1990-01-01', 'department': 'HR',
          'salary': 50000}
