@@ -4,7 +4,7 @@ Employee Management System Module
 This module provides various functionalities for managing employee data, 
 including adding, deleting, updating, and generating reports.
 """
-import src.menu as menu
+import source.menu as menu
 
 def main():
     """
